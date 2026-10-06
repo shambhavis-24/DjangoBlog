@@ -126,6 +126,24 @@ The application can be further enhanced with:
 * Additional content management features
 * Deployment to a production environment
 
+## Screenshots
+
+### Home Page
+
+![DjangoBlog Home Page](screenshots/homepage.jpeg)
+
+### Blog
+
+![DjangoBlog Blog](screenshots/blog.jpeg)
+
+### Blog 2
+
+![DjangoBlog Blog 2](screenshots/blog2.jpeg)
+
+### Blog Page
+
+![DjangoBlog Blog Page](screenshots/blog-page.jpeg)
+
 ## Author
 
 **Shambhavi Singh**
